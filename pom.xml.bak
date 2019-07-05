@@ -16,6 +16,10 @@
     </dependency>
   </dependencies>
   <build>
+<<<<<<< HEAD
+    <finalName>jenkins-git-test</finalName>
+=======
     <finalName>jenkins-git-integration-test</finalName>
+>>>>>>> a7b9cfd088893a22f24785ef4d5793031594f45f
   </build>
 </project>
